@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BloodBridge - Lifesaving Resources
 
 BloodBridge is a web-based platform designed to streamline emergency blood requests, donor management, and blood bank inventory tracking. The project aims to connect hospitals, donors, and blood banks for efficient and timely blood resource management.
@@ -58,3 +59,6 @@ Technology and Services/
 - **System Architecture:** See [System Architecture/System Architecture Document.pdf](System%20Architecture/System%20Architecture%20Document.pdf)
 - **Technology Stack:** See [Technology and Services/Technology Stack and Services Used.pdf](Technology%20and%20Services/Technology%20Stack%20and%20Services%20Used.pdf)
 - **Demo Video:** See [Documentation and Demo/Project Video Demo Link.pdf](Documentation%20and%20Demo/Project%20Video%20Demo%20Link.pdf)
+=======
+# AWS_Blood_Bridge
+>>>>>>> 7dea326226eeebe102a503cfc3f6211abdc10a5f
